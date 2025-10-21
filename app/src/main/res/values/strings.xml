@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">GameWorld</string>
+
+    <string name="toolbar_title">Videojuegos</string>
+
+
+    <string name="welcome">Bienvenido</string>
+    <string name="search_hint">Nombre...</string>
+    <string name="cover_content_desc">Portada del videojuego</string>
+    <string name="item_platforms">Plataformas: </string>
+    <string name="game_image">Lanzamiento: </string>
+    <string name="filter">Filtrar </string>
+    <string name="item_release_date">Lanzamiento: </string>
+    <string name="search_title">Filtros de Búsqueda</string>
+    <string name="genre_label">Género</string>
+    <string name="platform_label">Plataforma</string>
+    <string name="order_label">Ordenar por</string>
+    <string name="apply">Listo</string>
+    <string name="empty_title">Sin resultados</string>
+    <string name="server_error">Error del servidor</string>
+    <string name="empty_desc">No encontramos juegos para tu búsqueda o filtros.</string>
+    <string name="loading_games">Cargando juegos...</string>
+    <string name="search_field">Campo de búsqueda</string>
+    <string name="load_more">Cargar mas</string>
+    <string name="filter_date_asc">Fecha ↑</string>
+    <string name="filter_date_desc">Fecha ↓</string>
+    <string name="filter_rating_desc"> Rating ↓</string>
+    <string name="filter_rating_asc"> Rating ↑</string>
+    <string name="filter_name_asc"> Name ↑</string>
+    <string name="filter_name_desc"> Name ↓</string>
+
+</resources>

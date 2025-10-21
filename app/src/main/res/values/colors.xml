@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta principal -->
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#42A5F5</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorOnBackground">#1A1A1A</color>
+    <color name="lightblue">#1976D2</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="primary_color">#3F51B5</color>
+    <color name="secondary_color">#FF5722</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#1A1A1A</color>
+     <color name="red">#42A5F5</color>
+    <color name="colorOutline">#E0E0E0</color>
+</resources>
